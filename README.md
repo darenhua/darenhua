@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/githubBanner.png)](https://braydoncoyer.dev)
+[![Daren's GitHub Banner](./assets/githubBanner.png)](https://darenhua.netlify.app/)
 
 [![Visits Badge](https://badges.pufler.dev/visits/darenhua/darenhua)](https://darenhua.netlify.app/)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/darenhua)](https://github.com/darenhua)
@@ -10,7 +10,7 @@ Welcome to my profile!
 
 My name is Daren Hua, an aspiring frontend engineer and a computer science student at Hamilton College. I find magic in the endless solutions and beauty created by software, especially when used to merge disciplines. I'm currently searching for software engineering internship oppertunities for Summer 2022!
 
-Want to read about my projects? [Check out my portfolio!](https://braydoncoyer.dev/)
+Want to read about my projects? [Check out my portfolio!](https://darenhua.netlify.app/)
 
 ## &#x1f4c8; Most Used Languages
 
@@ -45,8 +45,8 @@ driving-simulation-platform
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darenhua&repo=erhs-schedule&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/darenhua/Portfolio-2021">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darenhua&repo=Portfolio-2021&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
