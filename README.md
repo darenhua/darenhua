@@ -28,9 +28,7 @@ Want to read about my projects? [Check out my portfolio!](https://darenhua.netli
 <br>
 
 <a href="https://github.com/darenhua/driving-simulation-platform">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darenhua&repo=
-driving-simulation-platform
-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darenhua&repo=driving-simulation-platform&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
