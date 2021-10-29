@@ -23,7 +23,7 @@ Want to read about my projects? [Check out my portfolio!](https://darenhua.netli
 <br>
 <br>
 
-## 📌 Pinned Repositories
+## 📌 Check out these repos!
 
 <br>
 
