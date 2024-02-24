@@ -32,22 +32,20 @@ Want to read about my projects? [Check out my portfolio!](https://darenhua.netli
 </a>
 
 <br>
+<br>
 
-<a href="https://github.com/darenhua/the-monitor-website">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darenhua&repo=the-monitor-website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/darenhua/happynewyear">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darenhua&repo=happynewyear&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/darenhua/erhs-schedule">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darenhua&repo=erhs-schedule&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<br>
+
+<a href="https://github.com/darenhua/threejs-books">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darenhua&repo=threejs-books&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/darenhua/Portfolio-2021">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darenhua&repo=Portfolio-2021&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
 <br>
