@@ -10,7 +10,7 @@ Welcome to my profile!
 
 My name is Daren Hua, a fullstack engineer and an intern at Gleam. I'm currently doing CS at Columbia Engineering!
 
-Want to read about my projects? [Check out my portfolio!](https://projects.darenhua.netlify.app/)
+Want to read about my projects? [Check out my portfolio!](https://projects-darenhua.netlify.app/)
 
 ## &#x1f4c8; Most Used Languages
 
